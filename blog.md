@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Flux Blog
+title: Nathan Bittner's Personal Blog
 ---
 
 {% for post in site.posts %}
